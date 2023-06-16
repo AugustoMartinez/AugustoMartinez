@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=augustomartinez" alt="augustomartinez" /></a> </p>
 
-- 🌱 I’m currently learning **React, NodeJS, MongoDB, Express and PostCSS**
+- 🌱 I’m currently learning **React, VueJS and TailwindCSS**
 
 - 💬 Ask me about **HTML, CSS and JS**
 
